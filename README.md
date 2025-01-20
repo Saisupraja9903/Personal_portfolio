@@ -7,14 +7,14 @@ My personal portfolio webpage is a fully responsive frontend project created usi
 
 <h3>Home:</h3>
 This section includes a friendly greeting, my picture, and social media links to GitHub, LinkedIn, and Instagram, making it easy to connect.
-                                                                                                                                                                                                                     About: 
+                                                                                                                                                                                                                     <h3>About:</h3>
 A brief introduction about me, my career objective, and a list of my technical skills, such as programming languages (C, Python, Java), web technologies (HTML, CSS), database management (MySQL), and tools like VS Code.
-                                                                                                                                                                                                                     Projects: 
-Highlights three of my key projects:
+                                                                                                                                                                                                                     <h3>Projects:</h3> 
+<h4>Highlights three of my key projects:</h4>
 I. A Cultural Heritage Preservation Platform focused on showcasing historical and cultural treasures.
 II. A Bank Management System built to simulate real-world banking operations.
 III. This Personal Portfolio Webpage, which serves as a live demonstration of my frontend development skills.
-                                                                                                                                                                                                                     Contact:
+                                                                                                                                                                                                                     <h3>Contact:</h3>
                                                                                                                                                                                                                      Contains my email address, phone number, and direct links to my social media profiles, making it convenient for networking.
                                                                                                                                                                                                                       I designed the website with simplicity and functionality in mind, ensuring it is user-friendly and easy to navigate.                                                                                                                                                                                                                                                                                                                                                                          
 3. Conclusion:
